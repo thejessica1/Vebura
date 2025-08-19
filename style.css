@@ -163,10 +163,13 @@ button{
     background-color: #f8e1e760 ;
     color: #333333;
     border-radius: 20px;
-    margin: 10px;
+    margin: 8px;
     font-weight: 500;
     font-size: 20px;
 }
 button:hover{
     color: #F8E1E7;
+}
+html{
+    scroll-behavior: smooth;
 }
